@@ -6,6 +6,7 @@
 <center> E-mail: alvaro_suzuki@hotmail.com 🧧</center>
 <center> 30 anos - Brasileiro</center>
 
+
 ---
 
 
@@ -28,6 +29,7 @@
 ##### Graduação em Análise e Desenvolvimento de Sistemas 👨🏽‍💻 
 
 Conclusão em julho de 2024
+
 **Universidade Cruzeiro do Sul**
 
 - Banco de Dados - MySQL;
@@ -39,6 +41,7 @@ Conclusão em julho de 2024
 ##### Graduado em Engenharia Civil 👷🏽‍♂️
 
 Concluído em 2019
+
 **Centro Universitário de João Pessoa - UNIPÊ**
 
 
@@ -46,31 +49,48 @@ Concluído em 2019
 #### <u>Experiência Profissional</u> 😎🤑
 
 04/2022 - função atual - **Plano Consultoria e Projetos**
-                                      *Empresa no ramo de construção civil*
-                                      **Coordenador de Orçamentos**
+
+​                                      *Empresa no ramo de construção civil*
+
+​                                      **Coordenador de Orçamentos**
+
 Atuação em **coordenação de equipe de engenharia dos mais distintos estados para orçamento de projetos públicos e privados, com enfoque no processo executivo de PVC Concreto, além de coordenar orçamentos públicos convencionais das mais diversas áreas.**
 
 12/2020 a 04/2022 - **RML Engenharia EIRELI**
-                                      *Empresa no ramo de construção de alto padrão*
-                                      **Engenheiro Civil**
+
+​                                      *Empresa no ramo de construção de alto padrão*
+
+​                                      **Engenheiro Civil**
+
 Atuação em **gerenciamento e acompanhamento de obras residenciais de alto padrão.**
 
+
+
 07/2020 - 12/2020 **Renatec Engenharia**
-                                      *Empresa no ramo de construções de obras públicas*
-                                      **Engenheiro Civil**
+
+​                                      *Empresa no ramo de construções de obras públicas*
+
+​                                      **Engenheiro Civil**
+
 Atuação em **gerenciamento e acompanhamento de obras públicas.**
 
+
+
 05/2015 a 11/2019 - **Plano Consultoria e Projetos**
-                                      *Empresa no ramo de construção civil*
-                                      **Estagiário de Engenharia Civil**
+
+​                                      *Empresa no ramo de construção civil*
+
+​                                      **Estagiário de Engenharia Civil**
+
 Atuação em **BIM Manager, elaboração de orçamentos e auxiliar na criação de projetos.**
 
 
 
 #### <u>Formação Complementar e Certificados</u> 💪🏽😎
 
-MySQL - Cursos em Vídeo
-Git / GitHub - Dio.
+- MySQL - Cursos em Vídeo
+
+- Git / GitHub - Dio.
 
 
 
